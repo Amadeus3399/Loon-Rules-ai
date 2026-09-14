@@ -31,5 +31,5 @@ DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,hotapi-va.isnssdk.com
 DOMAIN-SUFFIX,notifyback-cn.snssdk.com
-DOMAIN,survey.snssdk.com
+DOMAIN-SUFFIX,survey.snssdk.com
 USER-AGENT,TikTok*
